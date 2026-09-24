@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+runs/
+outputs/
+private/
+__pycache__/
+*.pyc
+*.csv
+*.xlsx
+*.xlsm
+*.zip

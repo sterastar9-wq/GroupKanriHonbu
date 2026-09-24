@@ -1,0 +1,3 @@
+interface:
+  display_name: "全拠点MF CSV統合"
+  short_description: "拠点別CSVを照合して1本に統合"
