@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+runs/
+*.csv
+*.pdf
+*.pfx
+*.p12
+*.key
+__pycache__/
